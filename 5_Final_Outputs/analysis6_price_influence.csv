@@ -1,0 +1,5 @@
+price_range,avg_price,web_unique_products,web_cart_adds,store_unique_products,store_qty_sold,web_events_per_unit
+1. $0-$50,27.65,32,7987,41,123796,0.06
+2. $50-$100,79.78,15,4637,22,181347,0.03
+3. $100-$200,146.16,15,5159,19,39022,0.13
+4. $200+,413.69,12,2602,18,31593,0.08
