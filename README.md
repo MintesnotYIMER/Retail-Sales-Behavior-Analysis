@@ -19,7 +19,7 @@ The goal of this project is to compare customer browsing behavior with confirmed
 ## Repository Structure & Source Code
 
 ### Phase 0: Raw Datasets
-* 🗄️ **[Web Logs (access.log.2)](0_Raw_Data/Web_Logs/access.log.2)**: A raw, unstructured Apache HTTP access log capturing online browsing behavior, IP addresses, and page requests.
+* 🗄️ **[Web Logs (Access_log_Short_Version.txt)](0_Raw_Data/Web_Logs/Access_log_Short_Version.txt)**: A truncated sample of the raw, unstructured Apache HTTP access log capturing online browsing behavior. *(Note: The original `access.log.2` file exceeds GitHub's size limits, so a representative sample is provided here to demonstrate the ETL pipeline).*
 * 🗄️ **[Retail Database (Cloudera)](0_Raw_Data/Retail_DB)**: The raw `.txt` data dumps from the Cloudera retail sample database, representing the physical store's transactional data (Orders, Customers, Departments, Categories, etc.).
 
 ### Phase 1: Data Preparation (ETL)
