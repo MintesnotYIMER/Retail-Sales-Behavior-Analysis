@@ -49,12 +49,9 @@ For convenience, the aggregated outputs of our Hadoop and Spark jobs are availab
 
 ---
 
-## Key Findings & Visualizations
+## Key Findings
 
 Our analysis revealed significant discrepancies between online browsing and physical purchasing. For instance, high-ticket items generated massive web traffic but suffered from a 97% cart abandonment rate, indicating high "research" intent online but physical purchasing preference. 
-
-*(Note: The chart below visualizes a segment of our findings)*
-![Analysis Visualization](Images/image_e4789e.png)
 
 ---
 
